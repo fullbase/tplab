@@ -1,5 +1,2 @@
 # tplab
   * Hello!
-
-## License
-MIT
